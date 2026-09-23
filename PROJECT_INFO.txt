@@ -1,0 +1,7 @@
+Davonium Technologies final website starter
+Stack: Vanilla HTML/CSS/JavaScript
+PWA: manifest.webmanifest + sw.js
+Logo: extracted D app icon from supplied brand board
+Email: davoniumtechnologies@gmail.com
+Phone: +234 707 260 4426
+Hosting target: Cloudflare Pages
